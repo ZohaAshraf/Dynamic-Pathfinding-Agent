@@ -206,3 +206,8 @@ git commit -m "docs: add academic report PDF"
 
 Developed for the **Artificial Intelligence** course — demonstrating informed  
 search algorithms (A\* and GBFS) with a dynamic environment extension.
+
+
+🔗 Links
+📝 Medium Blog Post: https://medium.com/@f243019/i-built-an-ai-agent-that-finds-its-way-even-when-the-road-disappears-a1bc8d37d3b4
+💼 LinkedIn: https://www.linkedin.com/in/zohashraf/
