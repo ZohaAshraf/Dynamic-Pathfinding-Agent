@@ -208,6 +208,12 @@ Developed for the **Artificial Intelligence** course — demonstrating informed
 search algorithms (A\* and GBFS) with a dynamic environment extension.
 
 
-🔗 Links
-📝 Medium Blog Post: https://medium.com/@f243019/i-built-an-ai-agent-that-finds-its-way-even-when-the-road-disappears-a1bc8d37d3b4
-💼 LinkedIn: https://www.linkedin.com/in/zohashraf/
+🔗 Connect & Learn More
+
+If you'd like to read more about the project or connect professionally:
+
+📝 Medium Blog Post
+https://medium.com/@f243019/i-built-an-ai-agent-that-finds-its-way-even-when-the-road-disappears-a1bc8d37d3b4
+
+💼 LinkedIn Profile
+https://www.linkedin.com/in/zohashraf/
