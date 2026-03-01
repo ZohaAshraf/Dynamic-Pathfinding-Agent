@@ -1,3 +1,8 @@
+
+
+
+https://github.com/user-attachments/assets/20f5cc84-c37b-4785-b0c3-5e9d9faf1702
+
 # Dynamic Pathfinding Agent 🗺️
 
 > A professional grid-based pathfinding visualiser built with Python + Pygame,  
